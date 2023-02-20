@@ -1,6 +1,4 @@
-# Lesson 8 Class Solution
 
-This is the completed collection of code for the lesson 7 class activity
 
 ## How to run it
 
